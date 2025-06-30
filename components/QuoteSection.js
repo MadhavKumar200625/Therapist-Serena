@@ -21,7 +21,7 @@ const QuoteSection = () => {
       Healing begins when you give yourself permission to feel and be understood.
     </h2>
     <p className="text-base md:text-lg text-gray-600 font-thin">
-      Whether you're navigating anxiety, facing relationship challenges, or carrying the weight of past experiences, therapy is a place to explore your story without judgment. It's a step toward clarity, confidence, and emotional balance—one conversation at a time.
+      Whether you&apos;re navigating anxiety, facing relationship challenges, or carrying the weight of past experiences, therapy is a place to explore your story without judgment. It&apos;s a step toward clarity, confidence, and emotional balance—one conversation at a time.
     </p>
   </div>
 </div>
