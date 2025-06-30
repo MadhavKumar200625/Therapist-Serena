@@ -22,8 +22,10 @@ const About = () => {
       <div className="flex flex-col md:flex-row-reverse items-center md:items-start gap-8 ">
         <div className="md:w-1/2">
           <Image
-            src={"./serana.jpg"}
+            src={"/serana.png"}
             alt="Dr. Serena Blake"
+            width={300}
+            height={300}
             className="w-full h-auto rounded-lg shadow-lg"
           />
         </div>
