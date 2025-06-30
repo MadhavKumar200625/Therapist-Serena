@@ -2,7 +2,7 @@
 import React from 'react'
 import { useState } from 'react'
 
-const page = () => {
+const Page = () => {
 
     const [form, setForm] = useState({
     name: '',
@@ -39,7 +39,7 @@ const page = () => {
       setTimeout(() => setShowToast(false), 4000)
     }
   }
-  
+
 
   return (
     <div className="bg-white px-6 py-12 max-w-2xl mx-auto ">
@@ -129,4 +129,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page
