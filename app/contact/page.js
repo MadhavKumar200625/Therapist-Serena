@@ -39,6 +39,7 @@ const page = () => {
       setTimeout(() => setShowToast(false), 4000)
     }
   }
+  
 
   return (
     <div className="bg-white px-6 py-12 max-w-2xl mx-auto ">
